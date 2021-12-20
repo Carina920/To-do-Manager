@@ -1,0 +1,10 @@
+package com.carina.rest.webservices.restfulwebservices.todomanager;
+
+public class TodoJpaRepository {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

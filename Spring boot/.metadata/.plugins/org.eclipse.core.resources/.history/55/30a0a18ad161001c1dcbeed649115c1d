@@ -1,0 +1,5 @@
+package com.carina.rest.webservices.restfulwebservices.todomanager;
+
+public class TodoJpaResource {
+
+}
