@@ -6,6 +6,8 @@ In this project, I learned by myself about using Spring Boot and React to develo
 PS: The coding part is in the 'Coding' branch.
 
 ## Application
+The screenshots for my application. 
+
 ### Welcome Page
 ![image](https://user-images.githubusercontent.com/59858652/146851628-0bcbc77f-3ef3-4577-8fc7-dc9267c5f078.png)
 
