@@ -9,7 +9,7 @@ PS: The coding part is in the 'Coding' branch.
 ## Technology
 *Languages:* Javascript, HTML, CSS
 
-*Framework:* Bootstrap 3
+*Framework:* Bootstrap 3, Spring Boot, React
 
 *Database:* MySQL
 
