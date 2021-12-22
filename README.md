@@ -6,6 +6,13 @@ In this project, I learned by myself about using Spring Boot and React to develo
 
 PS: The coding part is in the 'Coding' branch.
 
+## Technology
+*Languages:* Javascript, HTML, CSS
+
+*Framework:* Bootstrap 3
+
+*Database:* MySQL
+
 ## Application
 The screenshots for my application. 
 
