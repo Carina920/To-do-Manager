@@ -1,0 +1,142 @@
+.welcome {
+    color: #ffffff;
+    padding: 210px 50px 20px 50px;
+    font-size: 60px;
+    font-weight: 650;
+    line-height: 56px;
+    letter-spacing: 1px;
+}
+
+.manage {
+    font-family: "Raleway", sans-serif;
+    color: #eee;
+    margin: 15px 0 0 0;
+    font-size: 22px;
+}
+
+.welcome_btn {
+    background: #fbceb5 !important;
+    border: 1px
+    solid #fbceb5 !important;
+    color: #000 !important;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding: 9px 35px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 40px;
+    width: 18%;
+    margin-left: 41%;
+    margin-right: 41%
+}
+
+.lists_title {
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 58px;
+    margin: 0 0 15px;
+    margin-top: 25px;
+    font-weight: 500;
+}
+
+.list {
+    color: #ffffff;
+    padding: 40px 0px 20px 50px;
+    font-size: 35px;
+    font-weight: 550;
+    line-height: 56px;
+    letter-spacing: 1px;
+}
+
+.first_line {
+    font-family: "Raleway", sans-serif;
+    color: #000000;
+    margin: 15px 0 0 0;
+    font-size: 18px;
+}
+
+.lines {
+    color: #000000;
+}
+
+.btn {
+    background: #fbceb5 !important;
+    border: 1px
+    solid #fbceb5 !important;
+    color: #000 !important;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding: 9px 35px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 40px;
+}
+
+.add_btn {
+    background: #fbceb5 !important;
+    border: 1px
+    solid #fbceb5 !important;
+    color: #000 !important;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    border-radius: 50px;
+    padding: 2px 8px;
+    width: 18%;
+    margin-left: 41%;
+    margin-right: 41%
+}
+
+.update_btn {
+    background: #caf5a4 !important;
+    border: 1px
+    solid #fbceb5 !important;
+    color: #000 !important;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    border-radius: 50px;
+    padding: 2px 8px;
+}
+
+.delete_btn {
+    background: #f56262 !important;
+    border: 1px
+    solid #fbceb5 !important;
+    color: #000 !important;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    border-radius: 50px;
+    padding: 2px 8px;
+}
+
+.add_todo {
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 58px;
+    margin: 0 0 15px;
+    margin-top: 25px;
+    font-weight: 500;
+}
+
+.des_date {
+    color: #000000;
+}
